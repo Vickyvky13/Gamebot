@@ -26,7 +26,6 @@ from telegram.ext import InlineQueryHandler, ChosenInlineResultHandler, \
     CommandHandler, MessageHandler, Filters, CallbackQueryHandler, CallbackContext
 from telegram.ext.dispatcher import run_async
 
-from telegram import ParseMode
 import card as c
 import settings
 import simple_commands
