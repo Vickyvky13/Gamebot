@@ -1,2 +1,6 @@
 python-telegram-bot==13.11
 pony
+pyrogram 
+tgcrypto 
+pytz==2021.3 
+python-dotenv
